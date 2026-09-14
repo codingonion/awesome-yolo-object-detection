@@ -2847,7 +2847,8 @@
 
 
 
-  - ### Other Applications
+  -         - [HAO7919/YOLOv5-VisionHub](https://github.com/HAO7919/YOLOv5-VisionHub) <img src="https://img.shields.io/github/stars/HAO7919/YOLOv5-VisionHub?style=social"/> : A free all-in-one YOLO desktop detection tool with no installation required. Supports images, videos, live camera, and real-time screen detection. Compatible with YOLOv5/v8/v9/v10/v11. Multi-language UI (9 languages), CPU/GPU auto-switch, adjustable parameters. Download the release package and double-click to run - no Python environment needed.
+### Other Applications
     #### 其它应用
 
     - [Ikomia-dev/IkomiaApi](https://github.com/Ikomia-dev/IkomiaApi) <img src="https://img.shields.io/github/stars/Ikomia-dev/IkomiaApi?style=social"/> : State-of-the-art algorithms in Computer Vision with a few lines of code.
